@@ -39,6 +39,7 @@ end
 group :test do
   gem 'capybara'
   gem 'fuubar'
+  gem 'rspec-pride'
 end
 
 
